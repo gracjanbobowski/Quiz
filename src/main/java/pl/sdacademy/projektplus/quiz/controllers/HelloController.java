@@ -1,4 +1,4 @@
-package pl.sdacademy.projektplus.Quiz.controllers;
+package pl.sdacademy.projektplus.quiz.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

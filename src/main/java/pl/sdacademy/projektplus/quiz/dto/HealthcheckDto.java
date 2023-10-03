@@ -1,4 +1,4 @@
-package pl.sdacademy.projektplus.Quiz.dto;
+package pl.sdacademy.projektplus.quiz.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
