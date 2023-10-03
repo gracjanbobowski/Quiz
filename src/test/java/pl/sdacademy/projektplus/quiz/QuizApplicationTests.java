@@ -1,4 +1,4 @@
-package pl.sdacademy.projektplus.Quiz;
+package pl.sdacademy.projektplus.quiz;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

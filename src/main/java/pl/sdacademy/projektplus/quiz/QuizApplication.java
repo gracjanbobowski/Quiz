@@ -1,4 +1,4 @@
-package pl.sdacademy.projektplus.Quiz;
+package pl.sdacademy.projektplus.quiz;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
